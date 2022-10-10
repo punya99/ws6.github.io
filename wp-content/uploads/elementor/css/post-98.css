@@ -1,0 +1,339 @@
+.elementor-kit-98 {
+    --e-global-color-primary: #B19777;
+    --e-global-color-secondary: #151515;
+    --e-global-color-text: #888888;
+    --e-global-color-accent: #FFFFFF;
+    --e-global-color-c841aab: #BED86C;
+    --e-global-typography-primary-font-family: "Teko";
+    --e-global-typography-primary-font-size: 75px;
+    --e-global-typography-primary-font-weight: 300;
+    --e-global-typography-primary-line-height: 1.4em;
+    --e-global-typography-primary-letter-spacing: 12px;
+    --e-global-typography-secondary-font-family: "Playfair Display";
+    --e-global-typography-secondary-font-size: 40px;
+    --e-global-typography-secondary-font-weight: 600;
+    --e-global-typography-secondary-line-height: 1.4em;
+    --e-global-typography-text-font-family: "Poppins";
+    --e-global-typography-text-font-size: 15px;
+    --e-global-typography-text-font-weight: 400;
+    --e-global-typography-text-line-height: 2em;
+    --e-global-typography-accent-font-family: "Poppins";
+    --e-global-typography-accent-font-size: 18px;
+    --e-global-typography-accent-font-weight: 100;
+    --e-global-typography-accent-text-transform: uppercase;
+    --e-global-typography-accent-letter-spacing: 10px;
+    --e-global-typography-aa5a7b5-font-family: "Barlow Condensed";
+    --e-global-typography-aa5a7b5-font-size: 16px;
+    --e-global-typography-aa5a7b5-font-weight: 400;
+    --e-global-typography-aa5a7b5-text-transform: none;
+    --e-global-typography-aa5a7b5-font-style: normal;
+    --e-global-typography-aa5a7b5-text-decoration: none;
+    --e-global-typography-aa5a7b5-line-height: 1.7em;
+    --e-global-typography-aa5a7b5-letter-spacing: 1.2px;
+    --e-global-typography-6ee8a17-font-family: "Teko";
+    --e-global-typography-6ee8a17-font-size: 60px;
+    --e-global-typography-6ee8a17-font-weight: 400;
+    --e-global-typography-6ee8a17-text-transform: none;
+    --e-global-typography-6ee8a17-font-style: normal;
+    --e-global-typography-6ee8a17-text-decoration: none;
+    --e-global-typography-6ee8a17-line-height: 1em;
+    --e-global-typography-6ee8a17-letter-spacing: 0px;
+    --e-global-typography-f76271c-font-family: "Poppins";
+    --e-global-typography-f76271c-font-size: 12px;
+    --e-global-typography-f76271c-font-weight: 500;
+    --e-global-typography-f76271c-text-transform: uppercase;
+    --e-global-typography-f76271c-font-style: normal;
+    --e-global-typography-f76271c-text-decoration: none;
+    --e-global-typography-f76271c-line-height: 1.4em;
+    --e-global-typography-f76271c-letter-spacing: 2px;
+    --e-global-typography-f2acfd5-font-family: "Poppins";
+    --e-global-typography-f2acfd5-font-size: 13px;
+    --e-global-typography-d1079ea-font-family: "Poppins";
+    --e-global-typography-d1079ea-font-size: 12px;
+    --e-global-typography-d1079ea-font-weight: 400;
+    --e-global-typography-d1079ea-text-transform: uppercase;
+    --e-global-typography-d1079ea-font-style: normal;
+    --e-global-typography-d1079ea-text-decoration: none;
+    --e-global-typography-d1079ea-line-height: 1.4em;
+    --e-global-typography-d1079ea-letter-spacing: 2px;
+    --e-global-typography-3bdd9ab-font-family: "Teko";
+    --e-global-typography-3bdd9ab-font-size: 75px;
+    --e-global-typography-3bdd9ab-font-weight: 500;
+    --e-global-typography-3bdd9ab-text-transform: uppercase;
+    --e-global-typography-3bdd9ab-font-style: normal;
+    --e-global-typography-3bdd9ab-text-decoration: none;
+    --e-global-typography-3bdd9ab-line-height: 1.4em;
+    --e-global-typography-3bdd9ab-letter-spacing: 4px;
+    --e-global-typography-5eb4731-font-family: "Teko";
+    --e-global-typography-5eb4731-font-size: 20px;
+    --e-global-typography-5eb4731-font-weight: 300;
+    --e-global-typography-5eb4731-text-transform: uppercase;
+    --e-global-typography-5eb4731-font-style: normal;
+    --e-global-typography-5eb4731-text-decoration: none;
+    --e-global-typography-5eb4731-line-height: 1em;
+    --e-global-typography-5eb4731-letter-spacing: 12px;
+    --e-global-typography-350c99f-font-family: "Teko";
+    --e-global-typography-350c99f-font-size: 18px;
+    --e-global-typography-350c99f-font-weight: 400;
+    --e-global-typography-350c99f-text-transform: uppercase;
+    --e-global-typography-350c99f-font-style: normal;
+    --e-global-typography-350c99f-text-decoration: none;
+    --e-global-typography-350c99f-line-height: 1em;
+    --e-global-typography-350c99f-letter-spacing: 2px;
+    --e-global-typography-8cad242-font-family: "Poppins";
+    --e-global-typography-8cad242-font-size: 10px;
+    --e-global-typography-8cad242-font-weight: 500;
+    --e-global-typography-8cad242-text-transform: uppercase;
+    --e-global-typography-8cad242-font-style: normal;
+    --e-global-typography-8cad242-text-decoration: none;
+    --e-global-typography-8cad242-letter-spacing: 2px;
+    --e-global-typography-6b62752-font-family: "Teko";
+    --e-global-typography-6b62752-font-size: 60px;
+    --e-global-typography-6b62752-font-weight: 400;
+    --e-global-typography-6b62752-line-height: 1.4em;
+    --e-global-typography-0698cff-font-family: "Poppins";
+    --e-global-typography-0698cff-font-size: 18px;
+    --e-global-typography-0698cff-font-weight: 600;
+    --e-global-typography-0698cff-line-height: 1.4em;
+    --e-global-typography-a241d83-font-family: "Poppins";
+    --e-global-typography-a241d83-font-size: 15px;
+    --e-global-typography-a241d83-font-weight: 400;
+    --e-global-typography-a241d83-line-height: 2em;
+    --e-global-typography-545d692-font-family: "Teko";
+    --e-global-typography-545d692-font-size: 20px;
+    --e-global-typography-545d692-font-weight: 400;
+    --e-global-typography-545d692-line-height: 1.5em;
+    --e-global-typography-b47df59-font-family: "Playfair Display";
+    --e-global-typography-b47df59-font-size: 75px;
+    --e-global-typography-b47df59-font-weight: 700;
+    --e-global-typography-b47df59-line-height: 1.3em;
+    --e-global-typography-b47df59-letter-spacing: 2px;
+    --e-global-typography-bdee445-font-family: "Poppins";
+    --e-global-typography-bdee445-font-size: 200px;
+    --e-global-typography-bdee445-font-weight: 600;
+    --e-global-typography-bdee445-text-transform: none;
+    --e-global-typography-bdee445-font-style: normal;
+    --e-global-typography-bdee445-text-decoration: none;
+    --e-global-typography-bdee445-line-height: 2em;
+    --e-global-typography-bae6f2c-font-family: "Playfair Display";
+    --e-global-typography-bae6f2c-font-size: 18px;
+    --e-global-typography-bae6f2c-font-weight: 400;
+    --e-global-typography-bae6f2c-text-transform: none;
+    --e-global-typography-bae6f2c-font-style: italic;
+    --e-global-typography-bae6f2c-text-decoration: none;
+    --e-global-typography-bae6f2c-line-height: 2em;
+    --e-global-typography-6ea4213-font-family: "Playfair Display";
+    --e-global-typography-6ea4213-font-size: 17px;
+    --e-global-typography-6ea4213-font-weight: 600;
+    --e-global-typography-6ea4213-text-transform: none;
+    --e-global-typography-6ea4213-font-style: normal;
+    --e-global-typography-6ea4213-text-decoration: none;
+    --e-global-typography-6ea4213-line-height: 1.7em;
+    --e-global-typography-8b5f691-font-family: "Poppins";
+    --e-global-typography-8b5f691-font-size: 11px;
+    --e-global-typography-8b5f691-font-weight: 400;
+    --e-global-typography-8b5f691-text-transform: none;
+    --e-global-typography-8b5f691-font-style: normal;
+    --e-global-typography-8b5f691-text-decoration: none;
+    --e-global-typography-81baf70-font-family: "Poppins";
+    --e-global-typography-81baf70-font-size: 13px;
+    --e-global-typography-81baf70-font-weight: 600;
+    --e-global-typography-81baf70-text-transform: uppercase;
+    --e-global-typography-81baf70-letter-spacing: 1.2px;
+    color: #888888;
+    font-family: "Poppins", Sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    text-transform: none;
+    font-style: normal;
+    text-decoration: none;
+    line-height: 2em;
+    letter-spacing: 0px;
+}
+
+.elementor-kit-98 a {
+    color: #151515;
+}
+
+.elementor-kit-98 a:hover {
+    color: #B19777;
+    text-decoration: none;
+}
+
+.elementor-kit-98 h1 {
+    color: #FFFFFF;
+    font-family: "Poppins", Sans-serif;
+    font-size: 75px;
+    font-weight: 700;
+    text-transform: capitalize;
+    font-style: normal;
+    text-decoration: none;
+    line-height: 1.3em;
+    letter-spacing: 2px;
+}
+
+.elementor-kit-98 h2 {
+    color: #151515;
+    font-family: "Playfair Display", Sans-serif;
+    font-size: 40px;
+    font-weight: 600;
+    text-transform: capitalize;
+    font-style: normal;
+    text-decoration: none;
+    line-height: 1.4em;
+    letter-spacing: 0px;
+}
+
+.elementor-kit-98 h3 {
+    color: #151515;
+    font-family: "Playfair Display", Sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    text-transform: none;
+    font-style: normal;
+    text-decoration: none;
+    line-height: 1.4em;
+    letter-spacing: 1px;
+}
+
+.elementor-kit-98 h4 {
+    color: #B19777;
+    font-family: "Teko", Sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-style: normal;
+    text-decoration: none;
+    line-height: 1.4em;
+    letter-spacing: 1px;
+}
+
+.elementor-kit-98 h5 {
+    color: #B19777;
+    font-family: "Teko", Sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    text-transform: uppercase;
+    font-style: normal;
+    text-decoration: none;
+    line-height: 1.4em;
+    letter-spacing: 4px;
+}
+
+.elementor-kit-98 h6 {
+    color: #B19777;
+    font-family: "Teko", Sans-serif;
+    font-size: 17px;
+    font-weight: 300;
+    text-transform: uppercase;
+    font-style: normal;
+    text-decoration: none;
+    line-height: 1em;
+    letter-spacing: 4px;
+}
+
+.elementor-kit-98 button,
+.elementor-kit-98 input[type="button"],
+.elementor-kit-98 input[type="submit"],
+.elementor-kit-98 .elementor-button {
+    font-family: "Poppins", Sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    text-transform: capitalize;
+    font-style: normal;
+    text-decoration: none;
+    line-height: 1em;
+    letter-spacing: 1px;
+    color: #FFFFFF;
+    background-color: var( --e-global-color-primary);
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    border-color: var( --e-global-color-primary);
+    border-radius: 0px 0px 0px 0px;
+    padding: 16px 36px 16px 36px;
+}
+
+.elementor-kit-98 button:hover,
+.elementor-kit-98 button:focus,
+.elementor-kit-98 input[type="button"]:hover,
+.elementor-kit-98 input[type="button"]:focus,
+.elementor-kit-98 input[type="submit"]:hover,
+.elementor-kit-98 input[type="submit"]:focus,
+.elementor-kit-98 .elementor-button:hover,
+.elementor-kit-98 .elementor-button:focus {
+    color: #B19777;
+    background-color: #02010100;
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    border-color: #B19777;
+    border-radius: 0px 0px 0px 0px;
+}
+
+.elementor-kit-98 label {
+    color: #151515;
+    font-family: "Poppins", Sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    text-transform: none;
+    font-style: normal;
+    text-decoration: none;
+    line-height: 1.4em;
+    letter-spacing: 1px;
+}
+
+.elementor-kit-98 input:not([type="button"]):not([type="submit"]),
+.elementor-kit-98 textarea,
+.elementor-kit-98 .elementor-field-textual {
+    font-family: "Poppins", Sans-serif;
+    font-size: 15px;
+    font-weight: 300;
+    text-transform: capitalize;
+    font-style: normal;
+    text-decoration: none;
+    line-height: 1em;
+    letter-spacing: 0px;
+    color: #151515;
+    background-color: #888888;
+    border-radius: 0px 0px 0px 0px;
+    padding: 5px 5px 5px 5px;
+}
+
+.elementor-section.elementor-section-boxed>.elementor-container {
+    max-width: 1140px;
+}
+
+.e-container {
+    --container-max-width: 1140px;
+}
+
+.elementor-widget:not(:last-child) {
+    margin-bottom: 20px;
+}
+
+.elementor-element {
+    --widgets-spacing: 20px;
+}
+
+{}
+
+h1.entry-title {
+    display: var(--page-title-display);
+}
+
+@media(max-width:1024px) {
+    .elementor-section.elementor-section-boxed>.elementor-container {
+        max-width: 1024px;
+    }
+    .e-container {
+        --container-max-width: 1024px;
+    }
+}
+
+@media(max-width:767px) {
+    .elementor-section.elementor-section-boxed>.elementor-container {
+        max-width: 767px;
+    }
+    .e-container {
+        --container-max-width: 767px;
+    }
+}
